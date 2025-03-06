@@ -21,21 +21,18 @@ body {
     display: block;
 }
 #sl {
-    padding: center;
     text-align: center;
     display: block;
     font-weight: bold;
     color: #ffcc11;
 }
 #fl {
-  padding: center;
   text-align: center;
   display: block;
   font-weight: bold;
   color: #ffcc11;
 }
 #hl{
-  padding: center;
   text-align: center;
   display: block;
   font-weight: bold;

@@ -6,13 +6,14 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed; /* Fix background */
+    background-opacity: 0,2; 
 }
 /*all the id css*/
 #beelogo {
 width: 300px;
 display: block;
 margin: 40px auto;
-opacity: 0.5;
+opacity: 0.1;
 }
 
 #background_marketplace {

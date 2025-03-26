@@ -9,16 +9,17 @@ body {
 }
 /*all the id css*/
 #beelogo {
-    width: 300px;
-    display: block;
-    margin: 40px auto;
+width: 300px;
+display: block;
+margin: 40px auto;
+opacity: 0.5;
 }
 
 #background_marketplace {
-    width: 1000%;
-    max-width: 600px;
-    margin: 20px auto;
-    display: block;
+width: 1000%;
+max-width: 600px;
+margin: 20px auto;
+display: block;
 }
 #sl {
     text-align: center;

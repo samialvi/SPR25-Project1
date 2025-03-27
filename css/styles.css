@@ -15,13 +15,6 @@ width: 450px;
 display: block;
 margin: 60px auto;
 }
-
-#marketplace {
-background-attachment: fixed;
-background-position: center;
-display: block;
-width: 100%;
-}
 /*Edit to add background line*/
 #fl, #sl {
     text-align: center;

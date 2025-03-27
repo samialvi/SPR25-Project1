@@ -5,34 +5,34 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Fix background */
-    background-opacity: 0.2; 
-}
-/*all the id css*/
-#beelogo {
-width: 300px;
-display: block;
-margin: 40px auto;
+    background-attachment: fixed;
+    position: relative;
 }
 
-#marketplace.jpg {
-width: 1000%;
-max-width: 600px;
-margin: 20px auto;
+/*all the id css*/
+#beelogo {
+width: 450px;
 display: block;
+margin: 60px auto;
 }
-#sl {
+
+#marketplace {
+background-attachment: fixed;
+background-position: center;
+display: block;
+width: 100%;
+}
+/*Edit to add background line*/
+#fl, #sl {
     text-align: center;
     display: block;
     font-weight: bold;
-    color: #ffcc11;
+    color: #222;
+    background: rgba(255, 255, 255, 0.7); /* Light background for contrast */
+    padding: 10px;
+    border-radius: 5px;
 }
-#fl {
-  text-align: center;
-  display: block;
-  font-weight: bold;
-  color: #ffcc11;
-}
+
 #hl{
   text-align: center;
   display: block;
@@ -40,7 +40,7 @@ display: block;
 }
 /* sign up form css */
 main {
-    background: white;
+    background: #DAA520;
     max-width: 400px;
     margin: 20px auto;
     padding: 20px;
@@ -68,7 +68,7 @@ input {
 }
 
 button {
-    background-color: #ffcc00;
+    background-color: #DAA520;
     color: black;
     padding: 12px;
     border: none;
@@ -79,7 +79,7 @@ button {
 }
 
 button:hover {
-    background-color: #ffaa00;
+    background-color: #FFD700;
 }
 
 /* required media queries */

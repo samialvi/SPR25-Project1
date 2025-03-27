@@ -6,7 +6,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed; /* Fix background */
-    background-opacity: 0,2; 
+    background-opacity: 0.2; 
 }
 /*all the id css*/
 #beelogo {
